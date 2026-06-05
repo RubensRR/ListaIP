@@ -1,28 +1,5 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",RBA TV
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",TV Marajoara
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?JPFILMES
-
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",TV ONE
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8?JPFILMES
-
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",TVM Pará
-https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",Tv Mix Belém 100.9 FM
-https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",Super Marajoara
-https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",TV Cultura
-https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",Tv Guarajá - SBT
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES",HALLO! Brasil
 https://origin2.epgbr.com.br/live/HALLO_BRASIL/tracks-v1a1/mono.m3u8
@@ -36,8 +13,6 @@ https://origin2.epgbr.com.br/live/HALLO_MOVIES2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES",HALLO! Séries
 https://origin2.epgbr.com.br/live/HALLO_SERIES/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="CANAIS | ESTADO DO PARÁ",TV NBT
-https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES",HALLO! Classic
 https://origin2.epgbr.com.br/live/HALLO_CLASSIC/tracks-v1a1/mono.m3u8
@@ -165,56 +140,6 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 group-title="Canais | NOVELAS",Acesso Brasil TV
 https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",RIT TV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TV Universal
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",Rede Mais Família
-https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",Top Gospel FM
-https://a.cdni.live/topgospelfm/topgospelfm/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TV Itapetinga
-https://Stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TOP MIX TV 03
-https://video01.logicahost.com.br/topmixtvgospelcanal03/topmixtvgospelcanal03/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TOP MIX TV 02
-https://video01.logicahost.com.br/topmixtvgospel01/topmixtvgospel01/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",Tv Maná Brasil
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",Acesso Gospel
-https://s1.tvr.ovh/acessogospel/acessogospel/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TV CONEXÃO CELESTIAL
-https://stmv7.voxtvhd.com.br/tvconexaocelestial/tvconexaocelestial/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",REDE GOSPEL
-https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",ALMA GOSPEL
-https://almagospel.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TV Brasil Angola
-https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TV SEPIOL
-https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Canais | Religiosos",Tv Adorar
-https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EVANGÉLICOS",TV IMJC
-https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8
-
-#EXTINF:-1 group-title="Canais | Religiosos",Tv Verdade
-https://acesso.ecast.site:3104/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Canais | Músicas",TOP MIX SERTANEJA
 https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
@@ -252,9 +177,6 @@ https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 group-title="Radios",CNN BRASIL ALT
 http://46.151.196.223:14085
 
-#EXTINF:-1 group-title="CANAL DE DIREITA",Rádio e TV Livre Brasil
-https://video03.logicahost.com.br/tvlivrebrasil/tvlivrebrasil/playlist.m3u8
-
 #EXTINF:-1 group-title="Radios",Band News ALT
 http://46.151.196.223:14078
 
@@ -276,26 +198,11 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 group-title="CANAIS | NOTÍCIAS",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS | EDUCACÃO & CULTURA",Hackathon Brasil TV
-https://cdn-tiva-video04-logicahost-com-br.smartbit.co/hackathonbrasil/hackathonbrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS | NOTÍCIAS",Record News HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 
-#EXTINF:-1 group-title="CANAIS | EDUCACÃO & CULTURA",Viva e Eduque
-https://cdn-tiva-video01-logicahost-com-br.smartbit.co/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS | EDUCACÃO & CULTURA",Tv História
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvhistoria/tvhistoria/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EDUCACÃO & CULTURA",IJUÍ PLAY
-https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EDUCACÃO & CULTURA",TV Profissão
-https://tv03.zas.media:1936/tvprofissao/tvprofissao/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS | EDUCACÃO & CULTURA",TV CNU
-https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS | ESPORTES PPV",Rede TV³
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
@@ -336,8 +243,6 @@ http://46.151.196.223:14366
 #EXTINF:-1 group-title="Radios",- ESPN2 ALT
 http://46.151.196.223:14553
 
-#EXTINF:-1 group-title="CANAIS | EDUCACÃO & CULTURA",REDEHTV
-https://s1.tvr.ovh/video83070/video83070/playlist.m3u8
 
 #EXTINF:-1 group-title="Radios",- ESPN3 ALT
 http://46.151.196.223:14444
@@ -354,11 +259,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71763.ts
 #EXTINF:-1 group-title="Canais | Variedades",A&E HD
 http://tjtor8411.com:80/live/010794/FXz1sY/71762.ts
 
-#EXTINF:-1 group-title="Canais | Abertos",AgroMais HD
-http://tjtor8411.com:80/live/010794/FXz1sY/71766.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",AgroMais SD
-http://tjtor8411.com:80/live/010794/FXz1sY/71767.ts
 
 #EXTINF:-1 group-title="Canais | Filmes e Séries",AMC 4K
 http://tjtor8411.com:80/live/010794/FXz1sY/90646.ts
@@ -432,20 +332,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71819.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Brasil HD
 http://tjtor8411.com:80/live/010794/FXz1sY/71818.ts
 
-#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi HD
-http://tjtor8411.com:80/live/010794/FXz1sY/71821.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi SD
-http://tjtor8411.com:80/live/010794/FXz1sY/71822.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",Canal Rural HD
-http://tjtor8411.com:80/live/010794/FXz1sY/178513.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",Canal Rural SD
-http://tjtor8411.com:80/live/010794/FXz1sY/71823.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",Canal Rural SD
-http://tjtor8411.com:80/live/010794/FXz1sY/178514.ts
 
 #EXTINF:-1 group-title="Canais | Filmes e Séries",Canal Sony FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71824.ts
@@ -708,395 +594,25 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71964.ts
 #EXTINF:-1 group-title="Canais | Abertos",Futura SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71965.ts
 
-#EXTINF:-1 group-title="Canais | Globos Centro Oeste",Globo Brasilia HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131164.ts
-
-#EXTINF:-1 group-title="Canais | Globos Centro Oeste",Globo Brasilia SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131116.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Campinas FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/131150.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Campinas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131210.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Sao Carlos HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131129.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Ribeirao Preto SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131202.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Sao Carlos FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/131141.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Sao Carlos SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72592.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Ribeirao Preto HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131178.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo EPTV Sul de Minas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131201.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Inter TV Alto Litoral SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131131.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo Inter TV Cabugi SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131186.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Inter TV Alto Litoral HD
-http://tjtor8411.com:80/live/010794/FXz1sY/71983.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Inter TV dos Vales SD
-http://tjtor8411.com:80/live/010794/FXz1sY/71990.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Inter TV Grande Minas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131114.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Inter TV dos Vales HD
-http://tjtor8411.com:80/live/010794/FXz1sY/71989.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Inter TV Serra Mar SD
-http://tjtor8411.com:80/live/010794/FXz1sY/71996.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Minas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131209.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo Minas HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131159.ts
-
 #EXTINF:-1 group-title="Canais | Notícias",Globo News SD
 http://tjtor8411.com:80/live/010794/FXz1sY/131112.ts
 
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo Nordeste HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131157.ts
 
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo Nordeste SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72003.ts
 
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Blumenau SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131192.ts
 
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Blumenau HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72005.ts
-
-#EXTINF:-1 group-title="Canais | Notícias",Globo News HD
-http://tjtor8411.com:80/live/010794/FXz1sY/71999.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Centro Oeste SD
-http://tjtor8411.com:80/live/010794/FXz1sY/135434.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Centro Oeste HD
-http://tjtor8411.com:80/live/010794/FXz1sY/135433.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Chapeco HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72008.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Chapeco SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131190.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Criciuma HD
-http://tjtor8411.com:80/live/010794/FXz1sY/135427.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Criciuma SD
-http://tjtor8411.com:80/live/010794/FXz1sY/135428.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Florianopolis HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131183.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Florianopolis SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131144.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Joinville HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131167.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo NSC TV Joinville SD
-http://tjtor8411.com:80/live/010794/FXz1sY/91032.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Caxias do Sul SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131130.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Caxias do Sul HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72014.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Passo Fundo HD
-http://tjtor8411.com:80/live/010794/FXz1sY/133065.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Pelotas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131207.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Pelotas HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131121.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Porto Alegre SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131198.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Porto Alegre HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72017.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Santa Maria FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/135423.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Santa Maria SD
-http://tjtor8411.com:80/live/010794/FXz1sY/135425.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Santa Maria HD
-http://tjtor8411.com:80/live/010794/FXz1sY/135424.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Amapa HD
-http://tjtor8411.com:80/live/010794/FXz1sY/133056.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Amapa SD
-http://tjtor8411.com:80/live/010794/FXz1sY/133057.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Boa Vista HD
-http://tjtor8411.com:80/live/010794/FXz1sY/93588.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Boa Vista SD
-http://tjtor8411.com:80/live/010794/FXz1sY/93589.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Porto Velho SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131184.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Rio Branco SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131111.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Rio Branco FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/131148.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Rio Branco HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131162.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo Rede Bahia HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131123.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo Rede Bahia SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72024.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonica Porto Velho HD
-http://tjtor8411.com:80/live/010794/FXz1sY/93592.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo RJ SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131182.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo RJ HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131163.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC Cascavel HD
-http://tjtor8411.com:80/live/010794/FXz1sY/133059.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC Cascavel SD
-http://tjtor8411.com:80/live/010794/FXz1sY/133060.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC Londrina FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/133061.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC Londrina HD
-http://tjtor8411.com:80/live/010794/FXz1sY/133062.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC Londrina SD
-http://tjtor8411.com:80/live/010794/FXz1sY/133063.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC Paranavai HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131170.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC Paranavai SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131197.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Curitiba SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131127.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Curitiba HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72626.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Foz do Iguacu HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72033.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Foz do Iguacu SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131206.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Maringa SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131125.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Maringa HD
-http://tjtor8411.com:80/live/010794/FXz1sY/96888.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/131133.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131189.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72037.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo SP SD
+#EXTINF:-1 group-title="Canais | Abertos",Globo SP SD
 http://tjtor8411.com:80/live/010794/FXz1sY/72042.ts
 
-#EXTINF:-1 group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131166.ts
 
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo SP HD
+#EXTINF:-1 group-title="Canais | Abertos",Globo SP HD
 http://tjtor8411.com:80/live/010794/FXz1sY/131212.ts
 
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Anhanguera SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131124.ts
 
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Cabo Branco SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131179.ts
 
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Cabo Branco HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131110.ts
-
-#EXTINF:-1 group-title="Canais | Globos Centro Oeste",Globo TV Centro America SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72051.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Clube Teresina HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72053.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Clube Teresina SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131196.ts
-
-#EXTINF:-1 group-title="Canais | Globos Centro Oeste",Globo TV Centro America HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72050.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Fronteira Presidente Prudente SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131177.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Fronteira Presidente Prudente HD
-http://tjtor8411.com:80/live/010794/FXz1sY/97588.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Gazeta Alagoas HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131214.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Gazeta Alagoas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131142.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Gazeta Sul SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72060.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Gazeta Sul HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72059.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Gazeta Vitoria SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131175.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Araxa HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131126.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Juiz de Fora SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131106.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Gazeta Vitoria HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131154.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Uberaba SD
-http://tjtor8411.com:80/live/010794/FXz1sY/133054.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Uberaba FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/133052.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Uberaba HD
-http://tjtor8411.com:80/live/010794/FXz1sY/133053.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Juiz de Fora HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72068.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Uberlandia SD
-http://tjtor8411.com:80/live/010794/FXz1sY/93599.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Integracao Uberlandia HD
-http://tjtor8411.com:80/live/010794/FXz1sY/93598.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo TV Liberal Belem FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/131152.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo TV Liberal Belem HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72071.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo TV Liberal Belem SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72072.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Mirante Sao Luis SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131195.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo TV Mirante Sao Luis HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72074.ts
-
-#EXTINF:-1 group-title="Canais | Globos Centro Oeste",Globo TV Morena SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131122.ts
-
-#EXTINF:-1 group-title="Canais | Globos Centro Oeste",Globo TV Morena HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131169.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Sergipe SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131139.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Rio Sul HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131128.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Sergipe HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131181.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Rio Sul SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72082.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Subae  HD
-http://tjtor8411.com:80/live/010794/FXz1sY/133068.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Subae SD
-http://tjtor8411.com:80/live/010794/FXz1sY/133069.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Rio Sul FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/72079.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Sudoeste HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72093.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Sudoeste SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72094.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV TEM Bauru HD
-http://tjtor8411.com:80/live/010794/FXz1sY/91432.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV TEM Bauru SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131120.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV TEM Sorocaba SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131194.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Tribuna Santos SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131109.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Tribuna Santos HD
-http://tjtor8411.com:80/live/010794/FXz1sY/131165.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV TEM Sorocaba HD
-http://tjtor8411.com:80/live/010794/FXz1sY/91439.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Vanguarda S.J dos Campos SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72624.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Vanguarda S.J dos Campos HD
-http://tjtor8411.com:80/live/010794/FXz1sY/144027.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Vanguarda S.J dos Campos FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/131211.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Vanguarda Taubate SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131187.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Verdes Mares SD
-http://tjtor8411.com:80/live/010794/FXz1sY/131137.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Verdes Mares HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72096.ts
 
 #EXTINF:-1 group-title="Canais | Infantis",Gloob SD
 http://tjtor8411.com:80/live/010794/FXz1sY/131117.ts
 
-#EXTINF:-1 group-title="Canais | Globos Sudeste",Globo TV Vanguarda Taubate HD
-http://tjtor8411.com:80/live/010794/FXz1sY/93605.ts
 
 #EXTINF:-1 group-title="Canais | Infantis",Gloob HD
 http://tjtor8411.com:80/live/010794/FXz1sY/72100.ts
@@ -1251,14 +767,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72153.ts
 #EXTINF:-1 group-title="Canais | Documentários",ID HD
 http://tjtor8411.com:80/live/010794/FXz1sY/72152.ts
 
-#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News FHD [H265]
-http://tjtor8411.com:80/live/010794/FXz1sY/134022.ts
-
-#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News HD
-http://tjtor8411.com:80/live/010794/FXz1sY/134024.ts
-
-#EXTINF:-1 group-title="Canais | Notícias",Jovem Pan News SD
-http://tjtor8411.com:80/live/010794/FXz1sY/134025.ts
 
 #EXTINF:-1 group-title="Canais | Variedades",Lifetime HD
 http://tjtor8411.com:80/live/010794/FXz1sY/72156.ts
@@ -1350,8 +858,7 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72212.ts
 #EXTINF:-1 group-title="Canais | Variedades",OFF HD
 http://tjtor8411.com:80/live/010794/FXz1sY/72211.ts
 
-#EXTINF:-1 group-title="Canais | Religiosos",Pai Eterno HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72214.ts
+
 
 #EXTINF:-1 group-title="Canais | Paramount +",Paramount + 1 FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/72977.ts
@@ -1464,20 +971,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72272.ts
 #EXTINF:-1 group-title="Canais | Notícias",Record News SD
 http://tjtor8411.com:80/live/010794/FXz1sY/72273.ts
 
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Itapoan FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/157406.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Itapoan HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72284.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Itapoan SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72285.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV RJ SD
-http://tjtor8411.com:80/live/010794/FXz1sY/96526.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV RJ FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/106638.ts
 
 #EXTINF:-1 group-title="Canais | RecordTV",RecordTV SP HD
 http://tjtor8411.com:80/live/010794/FXz1sY/72973.ts
@@ -1485,23 +978,9 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72973.ts
 #EXTINF:-1 group-title="Canais | RecordTV",RecordTV SP SD
 http://tjtor8411.com:80/live/010794/FXz1sY/96522.ts
 
-#EXTINF:-1 group-title="Canais | Religiosos",Rede Gospel SD
-http://tjtor8411.com:80/live/010794/FXz1sY/104931.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV RJ HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72594.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/72293.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72296.ts
-
 #EXTINF:-1 group-title="Canais | Abertos",RedeTV HD
 http://tjtor8411.com:80/live/010794/FXz1sY/72299.ts
 
-#EXTINF:-1 group-title="Canais | Religiosos",Rede Vida HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72295.ts
 
 #EXTINF:-1 group-title="Canais | Abertos",RedeTV SD
 http://tjtor8411.com:80/live/010794/FXz1sY/72300.ts
@@ -1512,11 +991,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/112015.ts
 #EXTINF:-1 group-title="Canais | Variedades",Sabor & Arte HD
 http://tjtor8411.com:80/live/010794/FXz1sY/112016.ts
 
-#EXTINF:-1 group-title="Canais | Abertos",SBT RJ HD
-http://tjtor8411.com:80/live/010794/FXz1sY/108682.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",SBT RJ SD
-http://tjtor8411.com:80/live/010794/FXz1sY/108683.ts
 
 #EXTINF:-1 group-title="Canais | Filmes e Séries",Space 4K
 http://tjtor8411.com:80/live/010794/FXz1sY/90633.ts
@@ -1527,8 +1001,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72318.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries",Space FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/72317.ts
 
-#EXTINF:-1 group-title="Canais | Abertos",SBT TV Alterosa HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72621.ts
 
 #EXTINF:-1 group-title="Canais | Filmes e Séries",Space SD
 http://tjtor8411.com:80/live/010794/FXz1sY/72320.ts
@@ -1566,11 +1038,8 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72337.ts
 #EXTINF:-1 group-title="Canais | Filmes e Séries",Studio Universal HD
 http://tjtor8411.com:80/live/010794/FXz1sY/72336.ts
 
-#EXTINF:-1 group-title="Canais | Filmes e Séries",USA Network FHD [H265]
-http://tjtor8411.com:80/live/010794/FXz1sY/72339.ts
 
-#EXTINF:-1 group-title="Canais | Filmes e Séries",USA Network SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72341.ts
+
 
 #EXTINF:-1 group-title="Canais | Filmes e Séries",TNT Novelas 4K
 http://tjtor8411.com:80/live/010794/FXz1sY/103466.ts
@@ -1716,41 +1185,7 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72388.ts
 #EXTINF:-1 group-title="Canais | Variedades",Travel Box Brazil SD
 http://tjtor8411.com:80/live/010794/FXz1sY/72393.ts
 
-#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103464.ts
 
-#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brazil HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72392.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72396.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",TV Aparecida SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72397.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",TV Brasil HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72401.ts
-
-#EXTINF:-1 group-title="Canais | Notícias",TV Gazeta SP SD
-http://tjtor8411.com:80/live/010794/FXz1sY/104918.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta SP HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72406.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta SP [H265]
-http://tjtor8411.com:80/live/010794/FXz1sY/178519.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103459.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo FHD [H265]
-http://tjtor8411.com:80/live/010794/FXz1sY/72409.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo HD
-http://tjtor8411.com:80/live/010794/FXz1sY/72410.ts
-
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo SD
-http://tjtor8411.com:80/live/010794/FXz1sY/72411.ts
 
 #EXTINF:-1 group-title="Canais | Infantis",TV Ra Tim Bum 4K
 http://tjtor8411.com:80/live/010794/FXz1sY/103458.ts
@@ -1809,11 +1244,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/72437.ts
 #EXTINF:-1 group-title="Canais | Infantis",Zoomoo HD
 http://tjtor8411.com:80/live/010794/FXz1sY/104935.ts
 
-#EXTINF:-1 group-title="Canais | Abertos",SBT TV Alterosa FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/218366.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Goias HD
-http://tjtor8411.com:80/live/010794/FXz1sY/218823.ts
 
 #EXTINF:-1 group-title="Canais | Infantis",Adult Swim FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/251957.ts
@@ -1854,38 +1284,8 @@ http://tjtor8411.com:80/live/010794/FXz1sY/295483.ts
 #EXTINF:-1 group-title="Canais | Notícias",CNBC Brasil HD
 http://tjtor8411.com:80/live/010794/FXz1sY/295478.ts
 
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Guarapuava SD
-http://tjtor8411.com:80/live/010794/FXz1sY/306676.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RPC TV Guarapuava HD
-http://tjtor8411.com:80/live/010794/FXz1sY/306675.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Cruz Alta SD
-http://tjtor8411.com:80/live/010794/FXz1sY/306687.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Bage SD
-http://tjtor8411.com:80/live/010794/FXz1sY/306752.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo TV Anhanguera Palmas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/306760.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo TV Anhanguera Palmas HD
-http://tjtor8411.com:80/live/010794/FXz1sY/306759.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Bage HD
-http://tjtor8411.com:80/live/010794/FXz1sY/306750.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Cruz Alta HD
-http://tjtor8411.com:80/live/010794/FXz1sY/306686.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo RBS TV Bage FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/306749.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Sao Francisco SD
-http://tjtor8411.com:80/live/010794/FXz1sY/306787.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Sao Francisco HD
-http://tjtor8411.com:80/live/010794/FXz1sY/306786.ts
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS",SBT News HD op2
+https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 group-title="Canais | Jogos do Dia",[19:00] Botafogo-SP x Athletic Club FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/317686.ts
@@ -1908,104 +1308,7 @@ http://tjtor8411.com:80/live/010794/FXz1sY/340451.ts
 #EXTINF:-1 group-title="Canais | Esportes",X Sports HD
 http://tjtor8411.com:80/live/010794/FXz1sY/340450.ts
 
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Paranaiba Uberlandia SD
-http://tjtor8411.com:80/live/010794/FXz1sY/349916.ts
 
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Piaui A10 SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350013.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Leste SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350059.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Leste HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350058.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Ribeirao HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350009.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Roraima FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/350060.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Roraima SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350062.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Paulista SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350065.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Paraiba TV Correio SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350068.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Paraiba TV Correio HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350067.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Roraima HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350061.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Manaus SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350071.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Paulista HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350064.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Manaus HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350070.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Guararapes HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350073.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Guararapes SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350074.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Verdes Mares Cariri SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350077.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo TV Verdes Mares Cariri HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350076.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo TV Alvorada do Sul HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350079.ts
-
-#EXTINF:-1 group-title="Canais | Globos Sul",Globo TV Alvorada do Sul SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350080.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonas Macapa FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/350081.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonas Macapa HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350082.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonas Macapa SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350083.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonas Arquemes HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350085.ts
-
-#EXTINF:-1 group-title="Canais | Globos Norte",Globo Rede Amazonas Arquemes SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350086.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo Inter TV Costa Branca HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350088.ts
-
-#EXTINF:-1 group-title="Canais | Globos Nordeste",Globo Inter TV Costa Branca SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350089.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Thathi Campinas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350092.ts
-
-#EXTINF:-1 group-title="Canais | RecordTV",RecordTV Thathi Campinas HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350091.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",SBT VTV Santos Campinas SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350095.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",SBT VTV Santos Campinas HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350094.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",SBT Thathi Vale HD
-http://tjtor8411.com:80/live/010794/FXz1sY/350097.ts
-
-#EXTINF:-1 group-title="Canais | Abertos",SBT Thathi Vale SD
-http://tjtor8411.com:80/live/010794/FXz1sY/350098.ts
 
 #EXTINF:-1 group-title="Canais | Casa do Patrao",Casa do Patrao Cam 1 HD
 http://tjtor8411.com:80/live/010794/FXz1sY/376244.ts
@@ -2031,507 +1334,4 @@ http://tjtor8411.com:80/live/010794/FXz1sY/376281.ts
 #EXTINF:-1 group-title="Canais | Casa do Patrao",Casa do Patrao Cam 6 HD
 http://tjtor8411.com:80/live/010794/FXz1sY/376282.ts
 
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E02
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205474.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E03
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205475.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E01
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205473.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E04
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205476.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E05
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205477.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E06
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205478.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E07
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205479.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E01
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205481.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S01 E08
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205480.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E02
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205482.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E03
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205483.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E04
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205484.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E05
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205485.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E06
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205486.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E07
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205487.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S02 E08
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205488.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E02
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406127.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E03
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406128.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E04
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406129.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E05
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406130.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E06
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406131.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E07
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406132.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E08
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406133.mp4
-
-#EXTINF:-1 group-title="Radios",Vikings: Valhalla S03 E01
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/406126.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E01
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/663178.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E02
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/663179.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E03
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/667245.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E05
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/678276.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E06
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/687084.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E07
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/697172.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E08
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/703805.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E09
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/713159.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E10
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/722934.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E11
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/723650.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E12
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/730160.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E04
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/677219.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E13
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/750064.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E14
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/757814.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S01 E15
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/763234.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E01
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/900164.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E02
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902117.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E03
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902742.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E04
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903483.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E05
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904045.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E07
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905833.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E08
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905834.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E09
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/906663.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E06
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904974.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E10
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908610.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E11
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908379.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E12
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908885.mp4
-
-#EXTINF:-1 group-title="Radios",The Pitt S02 E13
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/909850.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E01
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/900791.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E02
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/900792.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E03
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/900793.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E04
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/901477.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E05
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/901478.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E06
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/901479.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E07
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902279.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E08
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902280.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E09
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902711.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E11
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902840.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E12
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902841.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E13
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903054.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E14
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903055.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E15
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903056.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E16
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903402.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E17
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903403.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E18
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903404.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E20
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903952.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E19
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/903951.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E21
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904079.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E10
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/902744.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E23
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904292.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E22
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904080.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E24
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904293.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E25
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904940.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E26
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/904941.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E27
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905010.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E29
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905012.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E28
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905011.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E30
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905237.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E31
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905238.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E32
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905239.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E33
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905853.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E35
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905855.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E34
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905854.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E37
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905857.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E38
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905858.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E39
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905859.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E40
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/906256.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E41
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/906257.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E43
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907107.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E36
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/905856.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E42
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907106.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E44
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907108.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E45
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907109.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E46
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907110.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E47
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907111.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E49
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907559.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E48
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907558.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E50
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/907560.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E51
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908085.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E52
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908086.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E53
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908087.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E54
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908088.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E55
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908089.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E56
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908397.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E57
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908398.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E58
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908399.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E59
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908528.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E60
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908841.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E61
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908842.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E63
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908959.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E62
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/908843.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E64
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/909612.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E66
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/909614.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E65
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/909613.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E67
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/909615.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E68
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/909869.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E69
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/909870.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E70
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/910251.mp4
-
-#EXTINF:-1 group-title="Radios",Coracao Acelerado S01 E71
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/910252.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E01
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844617.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E02
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844618.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E03
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844619.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E05
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844621.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E06
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844622.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E07
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844623.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E08
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844624.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E10
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844626.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E11
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/850728.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E09
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844625.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E13
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/850730.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E04
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/844620.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E14
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/850731.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E16
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/857504.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E15
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/850732.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E17
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/857505.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E20
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/857508.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E19
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/857507.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E21
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/864711.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E12
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/850729.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E18
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/857506.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E22
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/864712.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E25
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/864715.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E23
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/864713.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E24
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/864714.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E26
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/870622.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E27
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/870623.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E30
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/870626.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E29
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/870625.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E31
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/874481.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E28
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/870624.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E32
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/874482.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E33
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/874483.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E34
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/874484.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E35
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/874485.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E36
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/878882.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E37
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/878883.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E38
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/878884.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E39
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/878885.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E40
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/878886.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E41
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/879989.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E44
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/879992.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E43
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/879991.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E45
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/879993.mp4
-
-#EXTINF:-1 group-title="Radios",Guerreiros do Sol S01 E42
-http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/879990.mp4
 
